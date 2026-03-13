@@ -1,0 +1,125 @@
+# SiLENT←NOiSE – Fantastic Fire!!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+FUN FUN FUN
+Fanta Fire!
+FUN FUN FUN
+Fanta Fire!
+Ah
+FUN FUN FUN
+Fanta Fire!
+Fantastic High…
+Fanta Fire!
+FUN FUN FUN
+Fanta Fire!
+FUN FUN FUN
+Fanta Fire!
+Ah
+FUN FUN FUN
+Fanta Fire!
+Fantastic High…
+Burn in Burn Burn!
+燃えたくてイイね
+やる気やねん
+取り巻くjoke
+たかがstance
+邪魔したって意味ない論
+波動はどう？
+♡が法にゃFantastic!
+経験がalive
+効かしてspice
+パラパラmaze
+ちょーどのbalance♡
+導く成功より高く
+Hello, unknownな
+Fantastic!
+蒼玉込めた誠実さ貫く
+弱気断ち切るあおい炎
+WE GET IT
+Fanta Fire!
+High five GUYS
+高みへ燃え上がれ
+Ah,Fanta Fire!
+夢中領域
+もう止まれない
+Burn in Burn
+FUNNY FUN
+盛り上げるDAY AND NIGHT
+くだらない思考PASS through a GATE
+くぐり抜けてきて
+Fantastic High…
+FUN FUN FUN
+Fanta Fire!
+FUN FUN FUN
+Fanta Fire!
+Ah
+FUN FUN FUN
+Fanta Fire!
+Fantastic High…
+Fanta Fire!
+超えたくて強いて
+勝ち気やねん
+イケてるpause
+ケチらんresource
+嫉妬してたってあらやだ損
+I know ”最強”の
+Fantastic!
+栄光見つめ本能を問われる
+一途導くあかい祈り
+BEGINNING
+Fanta Fire!
+High five GUYS
+新たに生まれてく
+Ah,Fanta Fire!
+宇宙常識
+まだ変えてく
+Learn to Learn
+FUNNY FUN
+探してるDAY AND NIGHT
+終わらない疑問PASS through a GATE
+狂い笑わせて
+Fantastic High…
+FUN FUN FUN
+Fanta Fire!
+FUN FUN FUN
+Fanta Fire!
+Ah
+FUN FUN FUN
+Fanta Fire!
+Fantastic High…
+Fanta Fire!
+渦を巻くほどアツくて
+Brain Breakを巻き起こす
+正常思考で
+止められたくないとわかるの
+WE FEEL IN
+ANSERはないわ探しても
+気分次第進むだけ
+Ah,Fanta Fire!
+戻れないがちょうどイイから
+Burn in Burn
+WE GET IT
+Fanta Fire!
+High five GUYS
+高みへ燃え上がれ
+Ah,Fanta Fire!
+夢中領域
+もう止まれない
+Burn in Burn
+FUNNY FUN
+盛り上げるDAY AND NIGHT
+くだらない思考PASS through a GATE
+くぐり抜けてきて
+Fantastic High…
+FUN FUN FUN
+Fanta Fire!
+FUN FUN FUN
+Fanta Fire!
+Ah
+FUN FUN FUN
+Fanta Fire!
+Fantastic High…
+Fanta Fire!
+```
