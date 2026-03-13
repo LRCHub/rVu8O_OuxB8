@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Fantastic Fire!!",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T02:03:39.979639Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fantastic Fire Of Love",
+      "artist": "Kim Carnes",
+      "has_synced": true,
+      "path": "select/01_Fantastic_Fire_Of_Love_Kim_Carnes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fantastic Fire!!",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_Fantastic_Fire!!_SiLENT←NOiSE.txt"
+    }
+  ]
+}
